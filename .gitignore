@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# CV PDF
+/src/assets/CV_Genilson_Peixoto.pdf
